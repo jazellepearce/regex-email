@@ -8,8 +8,8 @@ This regular expression matches any email
 
 # Table of Contents
 
-<a> Email Validation </a>
-<a> Validation in JavaScript </a>
+- [Email Validation](#email)
+- [Validation In JavaScript](#validation)
 
 # Email Validation
 The regex is delimited with word boundaries, making it able to extract email addresses from large blocks of text
